@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musgu\\zzz\\Homework1\\Homework1.csproj": {}
+    "/Volumes/what/zzz/Homework1/Homework1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musgu\\zzz\\Homework1\\Homework1.csproj": {
+    "/Volumes/what/zzz/Homework1/Homework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musgu\\zzz\\Homework1\\Homework1.csproj",
+        "projectUniqueName": "/Volumes/what/zzz/Homework1/Homework1.csproj",
         "projectName": "Homework1",
-        "projectPath": "C:\\Users\\musgu\\zzz\\Homework1\\Homework1.csproj",
-        "packagesPath": "C:\\Users\\musgu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musgu\\zzz\\Homework1\\obj\\",
+        "projectPath": "/Volumes/what/zzz/Homework1/Homework1.csproj",
+        "packagesPath": "/Users/mrhumidum/.nuget/packages/",
+        "outputPath": "/Volumes/what/zzz/Homework1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\musgu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/mrhumidum/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musgu\\zzz\\Lab1\\Lab1.csproj": {}
+    "/Volumes/what/zzz/Lab1/Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musgu\\zzz\\Lab1\\Lab1.csproj": {
+    "/Volumes/what/zzz/Lab1/Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musgu\\zzz\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "/Volumes/what/zzz/Lab1/Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "C:\\Users\\musgu\\zzz\\Lab1\\Lab1.csproj",
-        "packagesPath": "C:\\Users\\musgu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musgu\\zzz\\Lab1\\obj\\",
+        "projectPath": "/Volumes/what/zzz/Lab1/Lab1.csproj",
+        "packagesPath": "/Users/mrhumidum/.nuget/packages/",
+        "outputPath": "/Volumes/what/zzz/Lab1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\musgu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/mrhumidum/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Simon_Osipov
-build_property.ProjectDir = C:\Users\musgu\zzz\Simon Osipov\
+build_property.ProjectDir = /Volumes/what/zzz/Simon Osipov/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
